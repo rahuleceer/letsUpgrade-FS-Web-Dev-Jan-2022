@@ -1,1 +1,2 @@
-This is my first assignment. This is the assignment of master branch. This is test1 conflict.
+This is my first assignment. This is the assignment of master branch. This is te
+This is my first assignment. This is the assignment of master branch.  This is master co
